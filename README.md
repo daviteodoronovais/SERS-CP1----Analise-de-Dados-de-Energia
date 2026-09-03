@@ -14,7 +14,7 @@ Contém os exercícios de preparação, inspeção, filtros, indicadores e inter
 
 Análise da carga elétrica verificada em São Paulo utilizando dados obtidos diretamente da API pública do ONS.
 
-[![Abrir no Google Colab](https://colab.research.google.com/drive/1O-eD_GC5BLppggA6GmEYfRBliwA570r2#scrollTo=XHuj-_xujbsO](https://colab.research.google.com/drive/1n6AzR6Hj4mgprVqBz9W6Gi5NaUErecHH#scrollTo=ujd6XtyQ95aM))
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n6AzR6Hj4mgprVqBz9W6Gi5NaUErecHH#scrollTo=ujd6XtyQ95aM))
 
 ## Organização
 
