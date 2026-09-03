@@ -21,6 +21,17 @@ Análise da carga elétrica verificada em São Paulo utilizando dados obtidos di
 - `Amostras/`: amostras dos datasets utilizadas nas análises.
 - `Notebooks/`: notebooks das atividades e do desafio final.
 
+Fontes dos dados
+
+1. [Appliances Energy Prediction — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
+2. [Steel Industry Energy Consumption — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption)
+3. [Power Consumption of Tetouan City — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city)
+4. [Solar Power Generation Data — Kaggle](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)
+5. [Wind & Solar Energy Production Dataset — Kaggle](https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset)
+6. [Individual Household Electric Power Consumption — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
+7. [Carga de Energia Verificada — ONS Dados Abertos](https://dados.ons.org.br/dataset/carga-energia-verificada)
+
+
 ## Como executar
 
 1. Clique em um dos botões **Abrir no Google Colab**.
