@@ -8,7 +8,7 @@ Este repositório reúne atividades práticas de análise de dados de energia de
 
 Contém os exercícios de preparação, inspeção, filtros, indicadores e interpretação dos seis conjuntos de dados da atividade.
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://drive.google.com/file/d/1O-eD_GC5BLppggA6GmEYfRBliwA570r2/view?usp=sharing](https://colab.research.google.com/drive/1O-eD_GC5BLppggA6GmEYfRBliwA570r2#scrollTo=XHuj-_xujbsO))
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O-eD_GC5BLppggA6GmEYfRBliwA570r2/view?usp=sharing](https://colab.research.google.com/drive/1O-eD_GC5BLppggA6GmEYfRBliwA570r2#scrollTo=XHuj-_xujbsO))
 
 ### Desafio final — API pública do ONS
 
