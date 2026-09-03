@@ -21,7 +21,8 @@ Análise da carga elétrica verificada em São Paulo utilizando dados obtidos di
 - `Amostras/`: amostras dos datasets utilizadas nas análises.
 - `Notebooks/`: notebooks das atividades e do desafio final.
 
-##Fontes dos dados
+
+## Fontes dos dados
 
 1. [Appliances Energy Prediction — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
 2. [Steel Industry Energy Consumption — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption)
