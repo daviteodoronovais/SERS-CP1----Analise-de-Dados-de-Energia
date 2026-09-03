@@ -8,13 +8,13 @@ Este repositório reúne atividades práticas de análise de dados de energia de
 
 Contém os exercícios de preparação, inspeção, filtros, indicadores e interpretação dos seis conjuntos de dados da atividade.
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-eD_GC5BLppggA6GmEYfRBliwA570r2#scrollTo=XHuj-_xujbsO))
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-eD_GC5BLppggA6GmEYfRBliwA570r2#scrollTo=XHuj-_xujbsO)
 
 ### Desafio final — API pública do ONS
 
 Análise da carga elétrica verificada em São Paulo utilizando dados obtidos diretamente da API pública do ONS.
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n6AzR6Hj4mgprVqBz9W6Gi5NaUErecHH#scrollTo=ujd6XtyQ95aM))
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n6AzR6Hj4mgprVqBz9W6Gi5NaUErecHH#scrollTo=ujd6XtyQ95aM)
 
 ## Organização
 
